@@ -7,21 +7,23 @@
     border-radius: 10px;
     width: 500px;
     height: 370px;
-    border: 1px solid #000000;
+    border: 2px solid #353535;
     margin-bottom: 20px;
     color: black;
-    background-color: #edf8f8;
+    background-color: #c0d8d7;
     text-align: left;
 }
 
 
 .field {
     border-radius: 4px;
-    border: 2px solid black;
+    outline: 2px solid rgb(73, 73, 73);
     width: 400px;
     height: 40px;
     padding: 10px;
     font-size: 18px;
+    background-color: #f3f3f3;
+    border: none;
 }
 
 .error {

@@ -1,14 +1,14 @@
 .listItem {
-    border: 2px solid black;
+    border: 1px solid rgb(117, 117, 117);
     border-radius: 10px;
     padding: 20px;
-    width: 260px;
+    width: 280px;
     display: flex;
     gap: 20px;
     justify-content: center;
     align-items: center;
     margin-bottom: 20px;
-    background-color: #f0f0f0;
+    background-color: #ececec;
 }
 
 .wraper {
@@ -16,20 +16,20 @@
     flex-direction: column;
     gap: 8px;
     text-align: left;
-    margin-right: 20px;
+    margin-right: 14px;
 }
 
 .iconUser {
-    margin-right: 10px;
-    width: 20px;
-    height: 20px;
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
 }
 
 .name {
     display: flex;
     align-items: center;
     gap: 5px;
-    font-size: 20px;
+    font-size: 14px;
     font-style: italic;
     font-weight: 500;
     color: black;
